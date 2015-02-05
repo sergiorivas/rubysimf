@@ -1,0 +1,40 @@
+ensamblaje_distribucion_minimo (modo a) (minutos)
+3.0
+ensamblaje_distribucion_moda (modo a) (minutos)
+4.0
+ensamblaje_distribucion_max (modo a) (minutos)
+6.0        
+ensamblaje_distribucion_minimo (modo b) (minutos)
+4.0
+ensamblaje_distribucion_moda (modo b) (minutos)
+6.0
+ensamblaje_distribucion_max (modo b) (minutos)
+9.0
+probabilidad_ir_a_control_calidad 
+0.1
+media_demanda_despacho (maquinas)
+120  
+intervalo_despacho (minutos)
+480
+tamano_lote_control_calidad (maquinas)
+12
+capacidad_cola_control_calidad (maquinas)
+36
+parametro_escala_tiempo_falla
+1000.0
+parametro_forma_tiempo_falla
+0.5
+tiempo_control_calidad
+120.0
+probabilidad_falla_ensamblaje (modo a)
+0.08
+probabilidad_falla_ensamblaje (modo b)
+0.03 
+umbral_falla_para_cambio_modo
+0.09
+cantidad_empacadores
+2      
+minutos_a_simular
+57601      
+cantidad_corridas
+10
