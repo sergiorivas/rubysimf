@@ -1,2 +1,2 @@
 # rubysimf
-Ruby Framework for EventDrive Process Simulation
+Ruby Framework for Discrete Event Process Simulation
